@@ -21,10 +21,10 @@ void setup()
 
 //---Loop Infinito---//
 void loop() {
-  Nothing();
-  Green();  
-  Yellow();
-  Red();
+  // Nothing();
+  // Green();  
+  // Yellow();
+  // Red();
   Nothing();
   Everything();
 }
